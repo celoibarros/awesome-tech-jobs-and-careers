@@ -49,6 +49,7 @@ References to job and career details, organized by country and category.
 ## Portugal
 ### Automotive
 - [AddVolt](https://www.addvolt.com/en/#Contacts) - AddVolt's platform reduces CO2 in the heavy transportation sector.  
+- [bilstein group](https://bilsteingroup.com/en/career/) - German supplier and manufacturer in the independent aftermarket with a strong focus on revolutionizing the aftermarket with digital solutions.
 - [Bosch](https://www.bosch.pt/carreiras/) - German engineering and technology company with a big focus on the automotive industry.
 - [Critical TechWorks](https://join.criticaltechworks.com/jobs) - Developing next generation software systems for BMW.
 - [Daloop](https://daloop.recruitee.com/) - Data powered fleet electrification.
