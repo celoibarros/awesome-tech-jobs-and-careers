@@ -58,6 +58,8 @@ References to job and career details, organized by country and category.
 - [tb.lx](https://www.tblx.io/careers) - Daimler Trucks and Buses IoT data into intelligent global services. 
 - [Volkswagen Digital Solutions](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) - Creating the digital ecosystem for the brands of the Volkswagen Group. 
 - [Faurecia](https://jobs.faurecia.com/careers?location=Lisboa%2CPortugal) - Global automotive and technology.
+- [Nextlane](https://www.nextlane.com/career/) - Software solutions to optimize automotive logistics and supply chain.
+
 
 ### Consultancy
 
@@ -169,24 +171,58 @@ References to job and career details, organized by country and category.
 - [Visma](https://www.visma.com/careers/open-positions) - Cloud solutions.
 - [Cegid](https://jobs.cegid.com/en/) - Cloud solutions.
 - [Amaris Consulting](https://amaris.com/) - Technology consulting.
+- [act digital](https://www.alter-solutions.pt/oportunidades-emprego) - Consultancy, Outsourcing, and Nearshore projects.
+- [Diconium](https://diconium.wd3.myworkdayjobs.com/en-US/diconium) - Software & data engineering company within Volkswagen Group.
+- [Efficio](https://jobs.eu.lever.co/efficioconsulting) - World's largest procurement and supply chain-focused consultancy.
+- [Fyld](https://www.fyld.pt/it-jobs) - Consultancy with outsourcing services.
+- [Landskill](https://www.landskill.com/careers/) - Performance-focused IT consultancy.
+- [mgm technology partners](https://jobs.mgm-tp.com/) - Consultancy based on model-driven software for enterprises.
+- [TensorOps](https://job-boards.eu.greenhouse.io/tensorops) - AI/ML firm building production‑ready machine learning solutions.
+- [The Member Company](https://www.themembercompany.com/careers) - Agile software development.
+- [We Are Rad](https://wearerad.co.uk/careers/) - Software, ideation, strategy and design consultancy.
+- [Whistleblower Software](https://career.whistleblowersoftware.com/) - Whistleblowing compliance platform for organizations.
+- [Yarilabs](https://www.yarilabs.com/careers#Open-positions) - Professional Consulting and Product Development.
+
 
 ### Developer Tools
 
 - [Codacy](https://www.codacy.com/careers) - Automated code reviews & code analytics.
 - [Datadog](https://careers.datadoghq.com/) - Cloud monitoring as a service.
 - [Docker](https://www.docker.com/careers/) - Container and k8s tooling for developers.
+- [GitLab](https://about.gitlab.com/jobs/) - DevSecOps platform for software delivery and collaboration.
+- [Miro](https://miro.com/careers/open-positions/?location=remote-emea) - Whiteboard platform that allows teams to work together in real-time.
 - [Oracle](https://www.oracle.com/pt/careers/) - DBMS's and information systems.
 - [OutSystems](https://www.outsystems.com/careers/job-list/?page=1) - Low-code platform to visually develop applications.
 - [PagerDuty](https://careers.pagerduty.com/) - Real-time operations and incident management platform.
+- [Rely.io](https://www.rely.io/careers) - Developer portal.
 - [Reviewpad](https://reviewpad.com/discord/hiring) - Pull request automations to safely merge faster with happy developers.
 - [Rows](https://github.com/dashdash/hiring) - Create interactive web apps using spreadsheet skills.
 - [SingleStore](https://www.singlestore.com/careers/jobs/) - The scalable cloud database for data-intensive applications, deployed on AWS, Azure, or GCP. (formerly MemSQL).
+- [Snyk](https://snyk.io/careers/) - Developer security platform for code, dependencies, and containers.
 - [Synopsys](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) - Silicon chip design, verification, IP integration and application security.
 - [Stream](https://getstream.io/team/#jobs) - API and SDK for chat messaging and activity feeds.
-- [Unbabel](https://unbabel.com/careers/) - Translation as a Service.
 - [TheyDo](https://www.theydo.com/careers) - The Platform for Customer-Centric Collaboration.
-- [Rely.io](https://www.rely.io/careers) - Developer portal.
-- [Miro](https://miro.com/careers/open-positions/?location=remote-emea) - Whiteboard platform that allows teams to work together in real-time.
+- [Unbabel](https://unbabel.com/careers/) - Translation as a Service.
+- [Elastic](https://www.elastic.co/careers) - Search, observability, and security solutions on the Elastic platform.
+- [Nitro](https://www.gonitro.com/about/careers) - Productivity platform that simplifies PDF editing and collaboration.
+- [RevenueCat](https://www.revenuecat.com/careers/) - Subscription infrastructure for mobile and web apps.
+- [Synthetic Users](https://syntheticusers.notion.site/syntheticusers/Help-us-power-synthetic-research-for-the-world-s-best-companies-d7228e03ee1e49a691d6476cea133a64) - Synthetic research infrastructure.
+- [TeamViewer](https://careers.teamviewer.com) - Remote access, device management and collaboration.
+
+
+### Data Engineering
+
+- [Airbyte](https://airbyte.com/careers) - Open-source data movement platform for ELT pipelines.
+- [Astronomer](https://www.astronomer.io/careers/) - Managed Apache Airflow platform for data orchestration.
+- [Confluent](https://www.confluent.io/careers/) - Data streaming platform powered by Apache Kafka.
+- [Databricks](https://www.databricks.com/company/careers/open-positions) - Data and AI platform for analytics and machine learning.
+- [dbt Labs](https://www.getdbt.com/careers) - Analytics engineering platform for transforming data in the warehouse.
+- [Dremio](https://www.dremio.com/careers/job-postings/) - Data lakehouse platform for fast SQL analytics.
+- [Fivetran](https://www.fivetran.com/careers) - Automated connectors for moving data into warehouses.
+- [Monte Carlo](https://www.montecarlodata.com/careers/) - Data observability platform for monitoring data quality and reliability.
+- [Snowflake](https://careers.snowflake.com/us/en/search-results) - Cloud data platform for warehousing, sharing, and AI workloads.
+- [Starburst](https://www.starburst.io/careers/) - Data platform for federated analytics across distributed sources.
+- [Tinybird](https://www.tinybird.co/jobs) - Real-time data platform for analytics APIs and streaming workloads.
 
 ### E-Commerce
 
@@ -214,6 +250,13 @@ References to job and career details, organized by country and category.
 - [BySide](https://byside.freshteam.com/jobs) - Turning visitors into buyers.
 - [Bounce](https://usebounce.com/careers) - Luggage storage.
 - [Rarible](https://jobs.lever.co/Rarible) - NFT marketplace.
+- [Barkyn](https://app.sesametime.com/jobs/Barkyn/all) - Barkyn delivers health and happiness to pet families around the world.
+- [Catawiki](https://catawiki.careers) - Online auction platform for rare and unique collectibles.
+- [Farfetch](https://aboutfarfetch.com/careers/our-approach-to-hiring/) - Global technology platform for luxury fashion.
+- [Joom](https://about.joom.com/en/vacancies) - Online marketplace selling affordable products from international sellers.
+- [Kaizen Gaming](https://careers.kaizengaming.com) - Online betting and gambling operator.
+- [Upwork](https://www.upwork.com/careers/jobs/explore) - Online marketplace connecting businesses and individuals with freelancers.
+
 
 ### Education
 
@@ -242,6 +285,7 @@ References to job and career details, organized by country and category.
 - [Hitachi Vantara](https://www.hitachivantara.com/en-us/company/careers.html) - IoT, cloud, application, big data and analytics solutions.
 - [InnovationCast](https://innovationcast.com/) - Collaborative Innovation Management Software.
 - [InvoiceXpress](https://www.invoicexpress.com/) - Online Invoicing Software.
+- [Infraspeak](https://infraspeak.com/en/careers) - Intelligent maintenance management software platform.
 - [KEEP SOLUTIONS](https://www.keep.pt/empresa/carreiras/) - Advanced solutions for information management.
 - [kununu](https://www.new-work.se/en/career/vacancies?company=5742) - Workplace insights that matter.
 - [Mind](https://www.mind.pt/) - Information management and industrial systems.
@@ -249,6 +293,7 @@ References to job and career details, organized by country and category.
 - [Nmbrs](https://www.nmbrs.com/en/careers) - HR & Payroll software.
 - [PandaDoc](https://www.pandadoc.com/careers/) - Manage and e-sign Documents.
 - [Petapilot](https://www.petapilot.com/) - Big Data Solutions.
+- [Pipedrive](https://www.pipedrive.com/en/jobs/open-positions) - Sales-focused CRM to manage leads, track deals, and boost growth.
 - [PHC Software](https://www.phcsoftware.com/carreiras/) - ERP software.
 - [Primavera BSS](https://pt.primaverabss.com/pt/bolsaempregos/) - Enterprise resource planning software.
 - [Primetag](https://jobs.primetag.com/) - Influence Marketing Automation Software.
@@ -266,6 +311,28 @@ References to job and career details, organized by country and category.
 - [Planet](https://www.weareplanet.com/careers) - Integrated payment solutions.
 - [Newhotel Software](https://www.newhotel.com/en/Main/company/careers.aspx) - Integrated software that opens new horizons for hotel management business.
 - [Santander](https://www.betechwithsantander.com/pt_br/home#offers) - Bank.
+- [Workato](https://www.workato.com/careers) - Enterprise integration and workflow automation platform.
+- [Aircall](https://www.aircall.io/careers/) - Cloud-based business phone and customer communications platform.
+- [Ashby](https://www.ashbyhq.com/careers) - AI-powered all-in-one recruiting platform and ATS.
+- [Attio](https://attio.com/careers) - Flexible, modern CRM for managing relationships and workflows.
+- [Beqom](https://beqom.bamboohr.com/careers) - Compensation management platform for pay, bonuses, and incentives.
+- [Cloudbeds](https://job-boards.greenhouse.io/cloudbeds) - Hospitality management platform for bookings, billing, and operations.
+- [CSG](https://www.csgi.com/careers/) - Cloud-native Business Support System platform.
+- [Defined.ai](https://www.defined.ai/careers/) - AI data platform for training and evaluating machine learning models.
+- [Dual Entry](https://careers.dualentry.com/) - AI-native accounting software for high-growth enterprises.
+- [HiJiffy](https://careers.hijiffy.com) - Guest communications management for the hospitality industry.
+- [Human Ready](https://humanready.io/careers) - Human-ready AI and analytics for business leaders.
+- [Iterable](https://iterable.com/careers/) - Cross-channel marketing platform for customer engagement and growth.
+- [Omnibees](https://omnibees-bee2pay-niara.gupy.io/) - Hotel Management Software.
+- [Oxide Computer Company](https://oxide.computer/careers) - Rack-scale servers with integrated hardware and software.
+- [Reachdesk](https://reachdesk.com/careers) - Global, data-driven gifting platform for measurable B2B engagement.
+- [Reltio](https://www.reltio.com/careers/) - Cloud SaaS platform for unified enterprise master data management.
+- [Sensei](https://www.sensei.tech/careers) - Leading European provider of autonomous stores.
+- [Sensor Tower](https://sensortower.com/careers) - App analytics and insights for mobile marketing.
+- [Talka](https://www.talka.ai/careers) - AI to analyze sales calls and improve deal success.
+- [Veeam](https://careers.veeam.com/vacancies) - Backup, recovery, and data management solutions for businesses.
+- [Visor.ai](https://careers.visor.ai) - No-code platform that automates customer service using AI.
+
 
 ### FinTech
 
@@ -286,20 +353,40 @@ References to job and career details, organized by country and category.
 - [Kraken](https://www.kraken.com/careers) - Kraken is a cryptocurrency exchange and bank.
 - [LoanDolphin](https://loandolphin.breezy.hr/) - Home loan marketplace.
 - [Moonpay](https://www.moonpay.com/careers) - Solutions for payments, smart contracts, and digital asset management.
+- [Mastercard](https://careers.mastercard.com/us/en) - Global payments technology company.
 - [Natixis](https://recrutement.natixis.com/) - French corporate and investment bank.
 - [Onfido](https://onfido.com/company/careers/) - Identity verification at the speed of life.
 - [Revolut](https://www.revolut.com/pt-PT/careers) - A digital banking alternative to conventional banks.
 - [Samlino Group](https://samlinogroup.com/careers/) - Financial products comparision for several markets.
 - [Seedrs](https://www.seedrs.com/careers) - Equity marketplace for everyone.
 - [SIBS](https://sibs-sgps.zohorecruit.eu/careers) - Major Portuguese payment processor.
+- [Pleo](https://www.pleo.io/en/careers) - Spend management platform for modern companies.
+- [Qonto](https://jobs.smartrecruiters.com/Qonto) - Business finance platform for SMEs and freelancers.
 - [StudentFinance](https://studentfinance.com/) - Disrupting education through Income Share Agreements.
 - [SwissBorg](https://swissborg.com/careers) - Crypto currencies exchange.
 - [Switch](https://switchpayments.com/about/careers) - The payments infrastructure for interoperability.
+- [Trustly](https://www.trustly.com/careers) - Open banking payment platform for account-to-account transactions.
 - [Uphold](https://uphold.com/resources/careers) - US cloud based financial services platform.
 - [Rauva](https://rauva.bamboohr.com/careers) - Portugal's first business super-app.
 - [Finsolutia](https://www.finsolutia.com/careers) - Leading Fintech Servicer in Iberia.
 - [Devexperts](https://careers.devexperts.com/) - Financial software and services for brokerages.
 - [ComparaJá.pt](https://www.comparaja.pt/trabalhar-no-comparaja) - Online platform for comparing financial and non-financial products.
+- [Agicap](https://career.agicap.com) - Cash flow management software for small and mid-sized businesses.
+- [ComplyAdvantage](https://www.complyadvantage.com/careers) - AML and fraud prevention platform for financial institutions.
+- [Fidel API](https://fidelapi.com/careers/) - One API for linking bank cards to digital applications globally.
+- [Flecto](https://www.notion.so/flecto/Working-at-Flecto-406db5e14c2c452abe89eecfb015b862) - Rental management for businesses promoting circular economy.
+- [Global Blue](https://www.globalblue.com/careers/) - Payments and tax-free shopping technology platform.
+- [Goparity](https://www.goparity.com/about/careers) - Crowdlending for sustainable projects with low entry.
+- [Mollie](https://jobs.mollie.com/vacancies) - Payment platform for easy, secure online payments and transactions.
+- [Paddle](https://www.paddle.com/careers) - Merchant of record and payments infrastructure for software businesses.
+- [Paynest](https://paynestco.notion.site/openroles) - Digital platform for hassle-free rent payments and management.
+- [Primer](https://primer.io/careers) - Payments automation and orchestration platform.
+- [Republic Europe](https://republic.com/careers) - Equity crowdfunding marketplace for everyone.
+- [Sovos](https://www.sovos.com/careers/) - Tax compliance software for global businesses.
+- [Tabby](https://www.tabby.ai/careers/) - Buy now, pay later and financial services platform.
+- [Teya](https://www.teya.com/careers) - Payments and financial tools for small businesses.
+- [Wallet](https://jobs.ton.org/companies/wallet-2#content) - User-friendly platform for efficiently managing crypto assets.
+
 
 ### Gaming
 
@@ -311,6 +398,8 @@ References to job and career details, organized by country and category.
 - [Miniclip](https://corporate.miniclip.com/careers/vacancies) - Mobile and web game development company.
 - [Not a Game Studio](https://www.notagamestudio.com/) - Game development studio focused on the experience of the users.
 - [Kaizen](https://careers.kaizengaming.com/apply) - Game tech.
+- [Redcatpig](https://www.redcatpig.com/careers.php) - Video game development studio responsible for games like KEO.
+
 
 
 ### Healthcare
@@ -322,6 +411,10 @@ References to job and career details, organized by country and category.
 - [Promptly](https://www.promptlyhealth.com/en/careers/) - Follow-up the outcomes of your medical treatments.
 - [Sword Health](https://swordhealth.com/company/careers) - Improving the musculoskeletal pain treatment process.
 - [Amgen](https://careers.amgen.com/en) - Biopharmaceutical.
+- [Olympus](https://www.olympus.pt/company/pt/carreiras/empregos/) - Advancing medical technologies to make the most of life.
+- [UpHill](https://www.uphillhealth.com/careers) - Healthtech platform automating patient care and hospital workflows.
+- [Virtuleap](https://virtuleap.com/about-us#career) - VR games to improve cognitive health and detect impairments.
+
 
 ### Human Resources
 
@@ -339,12 +432,18 @@ References to job and career details, organized by country and category.
 - [Siemens](https://jobs.siemens.com/careers?location=Porto%2C%20Porto%2C%20Portugal) -  Electronics, manufacturing and tecnhology conglomerate.
 - [Evolution](https://careers.evolution.com/all-vacancies/) - Solutions for live casino.
 - [Kuehne+Nagel](https://jobs.kuehne-nagel.com/global/en/) - Transportation and logistic.
+- [Cargofive](https://cargofive.com/careers) - Digital platform helping freight forwarders get instant ocean rates.
+- [CircuitLeap](https://www.circuitleap.ai/careers.html) - AI to speed up and optimize analog circuit design.
+- [FactoryPal](https://factorypal.com/careers) - Boost your manufacturing OEE with AI.
+
 
 ### Mobility
 
 - [FAIRTIQ](https://fairtiq.com/en/careers) - Public transport electronic tickets.
 - [Stratio](https://careers.stratioautomotive.com/) - Predictive fleet maintenance platform.
 - [Indie Campers](https://indiecampers.co.uk/careers) - Campervan rental. 
+- [Sixt](https://www.sixt.jobs) - Global car rental and mobility services provider.
+
 
 ### Multimedia
 
@@ -353,6 +452,10 @@ References to job and career details, organized by country and category.
 - [MOG Technologies](https://www.mog-technologies.com/company/careers) - End-to-end solutions for professional media.
 - [Sky](https://sky.wd3.myworkdayjobs.com/en-US/sky_careers) - TV, broadband, talk, streaming and mobile.
 - [Vizrt](https://apply.workable.com/vizrt/) - Leading provider of visual storytelling tools for media content creators.
+- [EVS](https://evs.com/company/careers) - Live video production technology and broadcast solutions.
+- [Restream](https://restream.io/about) - Platform for multi-streaming live video to various channels.
+- [wTVision](https://www.wtvision.com/careers) - Software for Television.
+
 
 ### Sea
 
@@ -380,18 +483,25 @@ References to job and career details, organized by country and category.
 - [Probely](https://careers.probely.com) - Automated web application security scanning as a service.
 - [S21sec](https://www.s21sec.com/join-us/) - Cybersecurity services.
 - [SoSafe](https://sosafe-awareness.com/careers/) - Cybersecurity services.
+- [Vawlt](https://vawlt.io/company/careers) - Cloud-based data security and encryption solutions.
+
 
 
 ### Social
 
 - [XING](https://corporate.xing.com/en/career/porto/) - For a better working life.
 - [VEED.IO](https://www.veed.io/careers) - Anyone can make a great video.
+- [DuckDuckGo](https://duckduckgo.com/hiring) - Privacy-focused search and browsing products.
+
 
 
 ### Sport
 
 - [Gympass](https://gympass.com/careers) - A discovery platform that helps you stay active and healthy.
 - [adidas](https://careers.adidas-group.com/) - Through sport, we have the power to change live​s.
+- [OneFootball](https://jobs.onefootball.com/) - Football media platform for news, highlights, and fan engagement.
+- [Wellhub](https://wellhub.com/careers) - A discovery platform that helps you stay active and healthy.
+
 
 ### Telcos
 
@@ -406,14 +516,20 @@ References to job and career details, organized by country and category.
 - [WIT Software](https://www.wit-software.com/careers/) - Software development for telcom services (OTT, RCS, Mobile, Web & others).
 - [Truphone](https://www.truphone.com/careers/vacancies/) - Global mobile connectivity and eSIM technology innovator.
 - [1GLOBAL](https://www.1global.com/vacancies) - Mobile solutions.
+- [Broadvoice](https://broadvoice.com/careers/) - Company specialized in integrated solutions for Contact Centers.
+
 
 ### Travel
 
+- [Amadeus](https://www.amadeus.com/en/careers) - Global travel technology company.
 - [eDreams ODIGEO](https://www.edreamsodigeocareers.com) - We are shaping the way people travel today and tomorrow.
 - [Hostelworld](https://www.hostelworldgroup.com/careers) - World's leading hostel-focused online booking platform.
 - [Ryanair](https://careers.ryanair.com/search/#search/location=portugal&departments=ryanair-labs-portugal) - Ryanair is an Irish ultra low-cost carrier.
 - [TripAdvisor](https://careers.tripadvisor.com) - The largest "social travel website" in the world.
 - [TUI](https://careers.tuigroup.com/jobs/) - Global travel and leisure experience company.
+- [Flix](https://flix.careers) - Leading global travel-tech company.
+- [TLSContact](https://www.tlscontact.com/en/careers/) - Global visa and consular services provider for governments.
+
 
 ## United Kingdom
 ### Automotive
