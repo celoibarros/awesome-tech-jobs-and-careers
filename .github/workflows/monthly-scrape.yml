@@ -1,0 +1,40 @@
+name: monthly-scrape
+
+on:
+  schedule:
+    - cron: "0 7 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run monthly scraper
+        run: python scripts/monthly_scrape.py --apply --report monthly-scrape-report.md --max-added 120
+
+      - name: Lint awesome list
+        run: npx -y awesome-lint readme.md
+
+      - name: Create PR
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: "chore/monthly-company-scrape"
+          delete-branch: false
+          title: "chore: monthly company scrape refresh"
+          commit-message: "chore: monthly company scrape refresh"
+          body-path: monthly-scrape-report.md
+          labels: |
+            automation
+            monthly

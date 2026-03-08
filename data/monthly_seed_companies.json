@@ -1,0 +1,80 @@
+[
+  {
+    "section": "Enterprise Software",
+    "name": "Aircall",
+    "url": "https://www.aircall.io/careers/",
+    "description": "Cloud-based business phone and customer communications platform."
+  },
+  {
+    "section": "Enterprise Software",
+    "name": "Defined.ai",
+    "url": "https://www.defined.ai/careers/",
+    "description": "AI data platform for training and evaluating machine learning models."
+  },
+  {
+    "section": "Developer Tools",
+    "name": "Elastic",
+    "url": "https://www.elastic.co/careers",
+    "description": "Search, observability, and security solutions on the Elastic platform."
+  },
+  {
+    "section": "Developer Tools",
+    "name": "RevenueCat",
+    "url": "https://www.revenuecat.com/careers/",
+    "description": "Subscription infrastructure for mobile and web apps."
+  },
+  {
+    "section": "FinTech",
+    "name": "ComplyAdvantage",
+    "url": "https://www.complyadvantage.com/careers",
+    "description": "AML and fraud prevention platform for financial institutions."
+  },
+  {
+    "section": "FinTech",
+    "name": "Global Blue",
+    "url": "https://www.globalblue.com/careers/",
+    "description": "Payments and tax-free shopping technology platform."
+  },
+  {
+    "section": "FinTech",
+    "name": "Paddle",
+    "url": "https://www.paddle.com/careers",
+    "description": "Merchant of record and payments infrastructure for software businesses."
+  },
+  {
+    "section": "FinTech",
+    "name": "Primer",
+    "url": "https://primer.io/careers",
+    "description": "Payments automation and orchestration platform."
+  },
+  {
+    "section": "FinTech",
+    "name": "Sovos",
+    "url": "https://www.sovos.com/careers/",
+    "description": "Tax compliance software for global businesses."
+  },
+  {
+    "section": "FinTech",
+    "name": "Tabby",
+    "url": "https://www.tabby.ai/careers/",
+    "description": "Buy now, pay later and financial services platform."
+  },
+  {
+    "section": "FinTech",
+    "name": "Teya",
+    "url": "https://www.teya.com/careers",
+    "description": "Payments and financial tools for small businesses."
+  },
+  {
+    "section": "Sport",
+    "name": "OneFootball",
+    "url": "https://jobs.onefootball.com/",
+    "description": "Football media platform for news, highlights, and fan engagement."
+  },
+  {
+    "section": "Social",
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/hiring",
+    "description": "Privacy-focused search and browsing products."
+  }
+]
