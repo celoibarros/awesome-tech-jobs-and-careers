@@ -497,9 +497,16 @@ References to job and career details, organized by country and category.
 
 ### Sport
 
+- [Arsenal](https://careers.arsenal.com/) - Premier League football club with opportunities across technology and digital.
+- [City Football Group](https://careers.cityfootballgroup.com/) - Global football group with digital, product, data, and engineering roles.
 - [Gympass](https://gympass.com/careers) - A discovery platform that helps you stay active and healthy.
+- [Jobs in Football](https://jobsinfootball.com/) - Specialized platform for football industry job opportunities.
+- [NBA](https://careers.nba.com/) - Global sports league with technology, product, and analytics roles.
 - [adidas](https://careers.adidas-group.com/) - Through sport, we have the power to change live​s.
 - [OneFootball](https://jobs.onefootball.com/) - Football media platform for news, highlights, and fan engagement.
+- [On Location](https://www.onlocationexp.com/careers/) - Sports and live-event experiences company with technology opportunities.
+- [Real Madrid](https://www.realmadrid.com/en-US/the-club/work-with-us) - Global football club with corporate and digital hiring opportunities.
+- [Red Bull](https://jobs.redbull.com/) - Global brand with technology roles across sports and media platforms.
 - [Wellhub](https://wellhub.com/careers) - A discovery platform that helps you stay active and healthy.
 
 
