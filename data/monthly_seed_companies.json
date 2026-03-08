@@ -67,6 +67,12 @@
   },
   {
     "section": "Sport",
+    "name": "Aston Martin Aramco F1 Team",
+    "url": "https://www.astonmartinf1.com/en-GB/careers",
+    "description": "Formula 1 team with engineering, software, and data opportunities."
+  },
+  {
+    "section": "Sport",
     "name": "Arsenal",
     "url": "https://careers.arsenal.com/",
     "description": "Premier League football club with opportunities across technology and digital."
@@ -79,9 +85,21 @@
   },
   {
     "section": "Sport",
+    "name": "Haas F1 Team",
+    "url": "https://www.haasf1team.com/careers",
+    "description": "Formula 1 team with roles in simulation, software, and performance engineering."
+  },
+  {
+    "section": "Sport",
     "name": "Jobs in Football",
     "url": "https://jobsinfootball.com/",
     "description": "Specialized platform for football industry job opportunities."
+  },
+  {
+    "section": "Sport",
+    "name": "Mercedes-AMG PETRONAS F1 Team",
+    "url": "https://www.mercedesamgf1.com/careers/",
+    "description": "Formula 1 team with software, data, and systems opportunities."
   },
   {
     "section": "Sport",
@@ -94,6 +112,12 @@
     "name": "OneFootball",
     "url": "https://jobs.onefootball.com/",
     "description": "Football media platform for news, highlights, and fan engagement."
+  },
+  {
+    "section": "Sport",
+    "name": "Oracle Red Bull Racing",
+    "url": "https://www.redbullracing.com/int-en/jobs",
+    "description": "Formula 1 team with digital, software, and data-driven motorsport roles."
   },
   {
     "section": "Sport",
@@ -112,6 +136,24 @@
     "name": "Red Bull",
     "url": "https://jobs.redbull.com/",
     "description": "Global brand with technology roles across sports and media platforms."
+  },
+  {
+    "section": "Sport",
+    "name": "Sauber Group (Audi F1 project)",
+    "url": "https://www.sauber-group.com/corporate/careers/",
+    "description": "Motorsport engineering group with software and data opportunities."
+  },
+  {
+    "section": "Sport",
+    "name": "Visa Cash App Racing Bulls",
+    "url": "https://www.visacashapprb.com/en/careers",
+    "description": "Formula 1 team with technology and engineering opportunities."
+  },
+  {
+    "section": "Sport",
+    "name": "Williams Racing",
+    "url": "https://careers.williamsf1.com/jobs?options=223&page=1",
+    "description": "Formula 1 team with technology, software, and engineering opportunities."
   },
   {
     "section": "Social",

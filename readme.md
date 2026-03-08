@@ -33,7 +33,6 @@ References to job and career details, organized by country and category.
 
 - [Online References](#online-references)
 - [Portugal](#portugal)
-- [United Kingdom](#united-kingdom)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -211,7 +210,7 @@ References to job and career details, organized by country and category.
 - [TeamViewer](https://careers.teamviewer.com) - Remote access, device management and collaboration.
 
 
-### Data Engineering Jobs and Opportunities
+### Data Engineering
 
 - [Airbyte](https://airbyte.com/careers) - Open-source data movement platform for ELT pipelines.
 - [Astronomer](https://www.astronomer.io/careers/) - Managed Apache Airflow platform for data orchestration.
@@ -514,6 +513,16 @@ References to job and career details, organized by country and category.
 - [Real Madrid](https://www.realmadrid.com/en-US/the-club/work-with-us) - Global football club with corporate and digital hiring opportunities.
 - [Red Bull](https://jobs.redbull.com/) - Global brand with technology roles across sports and media platforms.
 
+#### Formula 1 Teams and Motorsport
+
+- [Aston Martin Aramco F1 Team](https://www.astonmartinf1.com/en-GB/careers) - Formula 1 team with engineering, software, and data opportunities.
+- [Haas F1 Team](https://www.haasf1team.com/careers) - Formula 1 team with roles in simulation, software, and performance engineering.
+- [Mercedes-AMG PETRONAS F1 Team](https://www.mercedesamgf1.com/careers/) - Formula 1 team with software, data, and systems opportunities.
+- [Oracle Red Bull Racing](https://www.redbullracing.com/int-en/jobs) - Formula 1 team with digital, software, and data-driven motorsport roles.
+- [Sauber Group (Audi F1 project)](https://www.sauber-group.com/corporate/careers/) - Motorsport engineering group with software and data opportunities.
+- [Visa Cash App Racing Bulls](https://www.visacashapprb.com/en/careers) - Formula 1 team with technology and engineering opportunities.
+- [Williams Racing](https://careers.williamsf1.com/jobs?options=223&page=1) - Formula 1 team with technology, software, and engineering opportunities.
+
 
 ### Telcos
 
@@ -541,11 +550,6 @@ References to job and career details, organized by country and category.
 - [TUI](https://careers.tuigroup.com/jobs/) - Global travel and leisure experience company.
 - [Flix](https://flix.careers) - Leading global travel-tech company.
 - [TLSContact](https://www.tlscontact.com/en/careers/) - Global visa and consular services provider for governments.
-
-
-## United Kingdom
-### Automotive
-- [Williams Racing](https://alcority.wd1.myworkdayjobs.com/WilliamsRacing) - Formula 1 team.
 
 
 <!-- END CONTENT -->
