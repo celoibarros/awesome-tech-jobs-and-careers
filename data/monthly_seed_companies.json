@@ -67,9 +67,51 @@
   },
   {
     "section": "Sport",
+    "name": "Arsenal",
+    "url": "https://careers.arsenal.com/",
+    "description": "Premier League football club with opportunities across technology and digital."
+  },
+  {
+    "section": "Sport",
+    "name": "City Football Group",
+    "url": "https://careers.cityfootballgroup.com/",
+    "description": "Global football group with digital, product, data, and engineering roles."
+  },
+  {
+    "section": "Sport",
+    "name": "Jobs in Football",
+    "url": "https://jobsinfootball.com/",
+    "description": "Specialized platform for football industry job opportunities."
+  },
+  {
+    "section": "Sport",
+    "name": "NBA",
+    "url": "https://careers.nba.com/",
+    "description": "Global sports league with technology, product, and analytics roles."
+  },
+  {
+    "section": "Sport",
     "name": "OneFootball",
     "url": "https://jobs.onefootball.com/",
     "description": "Football media platform for news, highlights, and fan engagement."
+  },
+  {
+    "section": "Sport",
+    "name": "On Location",
+    "url": "https://www.onlocationexp.com/careers/",
+    "description": "Sports and live-event experiences company with technology opportunities."
+  },
+  {
+    "section": "Sport",
+    "name": "Real Madrid",
+    "url": "https://www.realmadrid.com/en-US/the-club/work-with-us",
+    "description": "Global football club with corporate and digital hiring opportunities."
+  },
+  {
+    "section": "Sport",
+    "name": "Red Bull",
+    "url": "https://jobs.redbull.com/",
+    "description": "Global brand with technology roles across sports and media platforms."
   },
   {
     "section": "Social",
